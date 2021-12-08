@@ -1,0 +1,15 @@
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\bin\Debug\net5.0\MathProject.DataLayer.deps.json
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\bin\Debug\net5.0\MathProject.DataLayer.runtimeconfig.json
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\bin\Debug\net5.0\MathProject.DataLayer.runtimeconfig.dev.json
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\bin\Debug\net5.0\MathProject.DataLayer.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\bin\Debug\net5.0\ref\MathProject.DataLayer.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\bin\Debug\net5.0\MathProject.DataLayer.pdb
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\MathProject.DataLayer.csproj.AssemblyReference.cache
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\MathProject.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\MathProject.DataLayer.AssemblyInfoInputs.cache
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\MathProject.DataLayer.AssemblyInfo.cs
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\MathProject.DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\MathProject.DataLayer.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\ref\MathProject.DataLayer.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\MathProject.DataLayer.pdb
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathProject.DataLayer\obj\Debug\net5.0\MathProject.DataLayer.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be921460-c48f-4afe-a09a-68b851d7b533": {
+      "ProjectGuid": "be921460-c48f-4afe-a09a-68b851d7b533",
+      "DisplayName": "ConsoleUI",
+      "ColorIndex": 0
+    },
+    "d8eaa2cd-e20c-4ea6-b83a-9503d051b038": {
+      "ProjectGuid": "d8eaa2cd-e20c-4ea6-b83a-9503d051b038",
+      "DisplayName": "MathProject.DataLayer",
+      "ColorIndex": 1
+    },
+    "a5f23b9b-a597-4351-a4a8-7ad26bee0c56": {
+      "ProjectGuid": "a5f23b9b-a597-4351-a4a8-7ad26bee0c56",
+      "DisplayName": "MathExpressionEvaluator",
+      "ColorIndex": 2
+    },
+    "1a812774-662b-4692-a7c3-93c1447b364e": {
+      "ProjectGuid": "1a812774-662b-4692-a7c3-93c1447b364e",
+      "DisplayName": "MathProject.Core",
+      "ColorIndex": 3
+    },
+    "b274b968-82dc-4d74-bb34-81b0902346e5": {
+      "ProjectGuid": "b274b968-82dc-4d74-bb34-81b0902346e5",
+      "DisplayName": "FormUI",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

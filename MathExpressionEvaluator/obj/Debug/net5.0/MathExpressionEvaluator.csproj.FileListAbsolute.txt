@@ -1,0 +1,15 @@
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\bin\Debug\net5.0\MathExpressionEvaluator.deps.json
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\bin\Debug\net5.0\MathExpressionEvaluator.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\bin\Debug\net5.0\ref\MathExpressionEvaluator.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\bin\Debug\net5.0\MathExpressionEvaluator.pdb
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\MathExpressionEvaluator.csproj.AssemblyReference.cache
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\MathExpressionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\MathExpressionEvaluator.AssemblyInfoInputs.cache
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\MathExpressionEvaluator.AssemblyInfo.cs
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\MathExpressionEvaluator.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\MathExpressionEvaluator.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\ref\MathExpressionEvaluator.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\MathExpressionEvaluator.pdb
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\bin\Debug\net5.0\MathProject.DataLayer.dll
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\bin\Debug\net5.0\MathProject.DataLayer.pdb
+D:\Projects\Programming\C#\TechsNovel\MathProject\MathExpressionEvaluator\obj\Debug\net5.0\MathExpressionEvaluator.csproj.CopyComplete
